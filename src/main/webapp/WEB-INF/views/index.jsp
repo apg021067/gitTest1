@@ -16,5 +16,8 @@
 	버튼버튼버튼버튼버튼함수함함수
 </body>
 <script>
+asfdasf
+asdf
+safasf
 </script>
 </html>
